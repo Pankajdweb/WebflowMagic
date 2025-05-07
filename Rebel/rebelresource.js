@@ -1,3 +1,5 @@
+// ?test datat from local machine
+
 document.addEventListener("DOMContentLoaded", (event) => {
   gsap.registerPlugin(ScrollTrigger);
 
